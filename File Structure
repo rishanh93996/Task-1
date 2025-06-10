@@ -1,0 +1,4 @@
+weather-dashboard/
+│── index.html
+│── styles.css
+└── script.js
